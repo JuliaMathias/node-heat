@@ -1,0 +1,7 @@
+{
+  "name": "node-heat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "JuliaMathias <juliamss@gmail.com>",
+  "license": "MIT"
+}
